@@ -1,0 +1,42 @@
+C:\Users\thras\source\repos\MyLibrary\bin\Debug\MyLibrary.exe.config
+C:\Users\thras\source\repos\MyLibrary\bin\Debug\MyLibrary.exe
+C:\Users\thras\source\repos\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\thras\source\repos\MyLibrary\obj\Debug\MyLibrary.csprojAssemblyReference.cache
+C:\Users\thras\source\repos\MyLibrary\obj\Debug\MyLibrary.FormAdmin.resources
+C:\Users\thras\source\repos\MyLibrary\obj\Debug\MyLibrary.FormEditPwd.resources
+C:\Users\thras\source\repos\MyLibrary\obj\Debug\MyLibrary.FormLend.resources
+C:\Users\thras\source\repos\MyLibrary\obj\Debug\MyLibrary.FormOuttime.resources
+C:\Users\thras\source\repos\MyLibrary\obj\Debug\MyLibrary.FormReturn.resources
+C:\Users\thras\source\repos\MyLibrary\obj\Debug\MyLibrary.FormUser.resources
+C:\Users\thras\source\repos\MyLibrary\obj\Debug\MyLibrary.FormUserData.resources
+C:\Users\thras\source\repos\MyLibrary\obj\Debug\MyLibrary.Properties.Resources.resources
+C:\Users\thras\source\repos\MyLibrary\obj\Debug\MyLibrary.csproj.GenerateResource.cache
+C:\Users\thras\source\repos\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\thras\source\repos\MyLibrary\obj\Debug\MyLibrary.exe
+C:\Users\thras\source\repos\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\thras\source\repos\MyLibrary\obj\Debug\MyLibrary.FormAddbook.resources
+C:\Users\thras\source\repos\MyLibrary\obj\Debug\MyLibrary.FormEditBook.resources
+C:\Users\thras\source\repos\MyLibrary\obj\Debug\MyLibrary.FormAddUser.resources
+C:\Users\thras\source\repos\MyLibrary\obj\Debug\MyLibrary.FormEditUser.resources
+C:\Users\thras\source\repos\MyLibrary\obj\Debug\MyLibrary.FormLogin.resources
+D:\My Paper\Computer Science\大三下\数据库\数据库\一行_大实验\Library程序源代码\bin\Debug\MyLibrary.exe.config
+D:\My Paper\Computer Science\大三下\数据库\数据库\一行_大实验\Library程序源代码\bin\Debug\MyLibrary.exe
+D:\My Paper\Computer Science\大三下\数据库\数据库\一行_大实验\Library程序源代码\bin\Debug\MyLibrary.pdb
+D:\My Paper\Computer Science\大三下\数据库\数据库\一行_大实验\Library程序源代码\obj\Debug\MyLibrary.csprojAssemblyReference.cache
+D:\My Paper\Computer Science\大三下\数据库\数据库\一行_大实验\Library程序源代码\obj\Debug\MyLibrary.FormLogin.resources
+D:\My Paper\Computer Science\大三下\数据库\数据库\一行_大实验\Library程序源代码\obj\Debug\MyLibrary.FormAddbook.resources
+D:\My Paper\Computer Science\大三下\数据库\数据库\一行_大实验\Library程序源代码\obj\Debug\MyLibrary.FormAddUser.resources
+D:\My Paper\Computer Science\大三下\数据库\数据库\一行_大实验\Library程序源代码\obj\Debug\MyLibrary.FormAdmin.resources
+D:\My Paper\Computer Science\大三下\数据库\数据库\一行_大实验\Library程序源代码\obj\Debug\MyLibrary.FormEditBook.resources
+D:\My Paper\Computer Science\大三下\数据库\数据库\一行_大实验\Library程序源代码\obj\Debug\MyLibrary.FormEditPwd.resources
+D:\My Paper\Computer Science\大三下\数据库\数据库\一行_大实验\Library程序源代码\obj\Debug\MyLibrary.FormEditUser.resources
+D:\My Paper\Computer Science\大三下\数据库\数据库\一行_大实验\Library程序源代码\obj\Debug\MyLibrary.FormLend.resources
+D:\My Paper\Computer Science\大三下\数据库\数据库\一行_大实验\Library程序源代码\obj\Debug\MyLibrary.FormOuttime.resources
+D:\My Paper\Computer Science\大三下\数据库\数据库\一行_大实验\Library程序源代码\obj\Debug\MyLibrary.FormReturn.resources
+D:\My Paper\Computer Science\大三下\数据库\数据库\一行_大实验\Library程序源代码\obj\Debug\MyLibrary.FormUser.resources
+D:\My Paper\Computer Science\大三下\数据库\数据库\一行_大实验\Library程序源代码\obj\Debug\MyLibrary.FormUserData.resources
+D:\My Paper\Computer Science\大三下\数据库\数据库\一行_大实验\Library程序源代码\obj\Debug\MyLibrary.Properties.Resources.resources
+D:\My Paper\Computer Science\大三下\数据库\数据库\一行_大实验\Library程序源代码\obj\Debug\MyLibrary.csproj.GenerateResource.cache
+D:\My Paper\Computer Science\大三下\数据库\数据库\一行_大实验\Library程序源代码\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+D:\My Paper\Computer Science\大三下\数据库\数据库\一行_大实验\Library程序源代码\obj\Debug\MyLibrary.exe
+D:\My Paper\Computer Science\大三下\数据库\数据库\一行_大实验\Library程序源代码\obj\Debug\MyLibrary.pdb
